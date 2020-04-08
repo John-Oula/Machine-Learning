@@ -2,13 +2,10 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="c6fdaae4-d16a-4fdc-818c-cf206c122eac" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/.idea/.gitignore" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/SL regression/Salary_Data.csv" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/SL regression/Simple Linear regression.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ML regression/50_Startups.csv" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ML regression/Multiple Linear Regression.py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Data.csv" beforeDir="false" afterPath="$PROJECT_DIR$/Data preproccessing/Data.csv" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/data_pre_template.py" beforeDir="false" afterPath="$PROJECT_DIR$/Data preproccessing/data_pre_template.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/preprocces.py" beforeDir="false" afterPath="$PROJECT_DIR$/Data preproccessing/preprocces.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Data preproccessing/data_pre_template.py" beforeDir="false" afterPath="$PROJECT_DIR$/Data preproccessing/data_pre_template.py" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -36,26 +33,49 @@
     <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
     <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
     <property name="WebServerToolWindowFactoryState" value="false" />
-    <property name="last_opened_file_path" value="$PROJECT_DIR$/SL regression" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/ML regression" />
     <property name="nodejs_interpreter_path.stuck_in_default_project" value="undefined stuck path" />
     <property name="nodejs_npm_path_reset_for_default_project" value="true" />
     <property name="settings.editor.selected.configurable" value="settings.github" />
   </component>
   <component name="RecentsManager">
-    <key name="CopyFile.RECENT_KEYS">
-      <recent name="C:\Users\ASUS\Desktop\Data-preprocessing\SL regression" />
-    </key>
     <key name="MoveFile.RECENT_KEYS">
       <recent name="C:\Users\ASUS\Desktop\Data-preprocessing\Data preproccessing" />
       <recent name="C:\Users\ASUS\Desktop\Data-preprocessing\SL regression" />
       <recent name="C:\Users\ASUS\Desktop\MACHINE LEARNING\Machine Learning A-Z Template Folder\Part 1 - Data Preprocessing\Section 2 -------------------- Part 1 - Data Preprocessing --------------------" />
     </key>
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="C:\Users\ASUS\Desktop\Data-preprocessing\ML regression" />
+      <recent name="C:\Users\ASUS\Desktop\Data-preprocessing\SL regression" />
+    </key>
   </component>
-  <component name="RunManager" selected="Python.Simple Linear regression">
+  <component name="RunManager" selected="Python.Multiple Linear Regression">
+    <configuration name="Multiple Linear Regression" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+      <module name="Data-preprocessing" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/ML regression" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/ML regression/Multiple Linear Regression.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="true" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
     <configuration name="Simple Linear regression" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
       <module name="Data-preprocessing" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
       <option name="SDK_HOME" value="" />
       <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/SL regression" />
       <option name="IS_MODULE_SDK" value="true" />
@@ -93,6 +113,25 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
+    <configuration name="data_pre_template" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+      <module name="Data-preprocessing" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/Data preproccessing" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Data preproccessing/data_pre_template.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="true" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
     <configuration name="preprocces" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
       <module name="Data-preprocessing" />
       <option name="INTERPRETER_OPTIONS" value="" />
@@ -117,8 +156,8 @@
     </configuration>
     <recent_temporary>
       <list>
-        <item itemvalue="Python.Simple Linear regression" />
-        <item itemvalue="Python.Simple Linear regression" />
+        <item itemvalue="Python.Multiple Linear Regression" />
+        <item itemvalue="Python.data_pre_template" />
         <item itemvalue="Python.Simple Linear regression" />
         <item itemvalue="Python.Simple Linear regression" />
         <item itemvalue="Python.Simple Linear regression" />
@@ -136,17 +175,34 @@
       <option name="presentableId" value="Default" />
       <updated>1586101379367</updated>
       <workItem from="1586101383305" duration="5291000" />
+      <workItem from="1586369819236" duration="2966000" />
     </task>
+    <task id="LOCAL-00001" summary="SLR">
+      <created>1586176590069</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1586176590074</updated>
+    </task>
+    <option name="localTasksCounter" value="2" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
     <option name="version" value="1" />
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="SLR" />
+    <option name="LAST_COMMIT_MESSAGE" value="SLR" />
   </component>
   <component name="WindowStateProjectService">
     <state x="537" y="185" key="#com.intellij.tools.ToolEditorDialog" timestamp="1586106733704">
       <screen x="0" y="0" width="1536" height="824" />
     </state>
     <state x="537" y="185" key="#com.intellij.tools.ToolEditorDialog/0.0.1536.824/1920.0.1920.1040@0.0.1536.824" timestamp="1586106733704" />
+    <state x="393" y="8" key="CommitChangelistDialog2" timestamp="1586176587139">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state x="393" y="8" key="CommitChangelistDialog2/0.0.1536.824/1920.0.1920.1040@0.0.1536.824" timestamp="1586176587139" />
     <state x="549" y="154" key="FileChooserDialogImpl" timestamp="1586101735598">
       <screen x="0" y="0" width="1536" height="824" />
     </state>
@@ -155,9 +211,13 @@
       <screen x="0" y="0" width="1536" height="824" />
     </state>
     <state x="277" y="55" key="SettingsEditor/0.0.1536.824/1920.0.1920.1040@0.0.1536.824" timestamp="1586107259169" />
-    <state x="361" y="145" key="Vcs.Push.Dialog.v2" timestamp="1586107226989">
+    <state x="361" y="145" key="Vcs.Push.Dialog.v2" timestamp="1586176598064">
       <screen x="0" y="0" width="1536" height="824" />
     </state>
-    <state x="361" y="145" key="Vcs.Push.Dialog.v2/0.0.1536.824/1920.0.1920.1040@0.0.1536.824" timestamp="1586107226989" />
+    <state x="361" y="145" key="Vcs.Push.Dialog.v2/0.0.1536.824/1920.0.1920.1040@0.0.1536.824" timestamp="1586176598064" />
+    <state x="465" y="236" key="com.intellij.ide.util.TipDialog" timestamp="1586369941604">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state x="465" y="236" key="com.intellij.ide.util.TipDialog/0.0.1536.824@0.0.1536.824" timestamp="1586369941604" />
   </component>
 </project>
